@@ -4,7 +4,7 @@
 
 Masalah bisnis yang sedang dihadapi adalah terkait pinjaman yang diberikan kepada customer, sebagian diantaranya mengalami keterlambatan/ kesulitan pembayaran. 
 
-![image](https://user-images.githubusercontent.com/114457985/210165519-7aaf8cfe-ec87-4971-878b-f34708939582.png)
+![image](https://user-images.githubusercontent.com/114457985/210165525-78e5ee6e-bb2e-477c-b760-88bd7624705f.png)
 
 
 Goals : 
