@@ -22,6 +22,15 @@ Dataset :
 
 # Top Insight & Recommendation
 
+![image](https://user-images.githubusercontent.com/114457985/210165598-eb88d896-c254-4b22-a32a-4d30657d4eb0.png)
+
+
+![image](https://user-images.githubusercontent.com/114457985/210165600-6461aa42-671f-413a-947e-b8beaf826fb8.png)
+
+
+![image](https://user-images.githubusercontent.com/114457985/210165604-1d944be1-b186-4f66-b130-6039f219a22d.png)
+
+
 - Accountant dan High Skill Tech Staff adalah 2 tipe pekerjaan dimana proporsi keberhasilan pembayaran paling tinggi, di atas rata-rata smoothness rate secara keseluruhan. Sedangkan Low-skill Laborers memiliki proporsi kelancaran pembayaran terendah dibandingkan tipe pekerjaan lain.
 - Semakin banyak kontrak aktif yang dimiliki customer, kecenderungan pembayarannya semakin sulit.
 
@@ -41,7 +50,7 @@ Recommendation :
 
 - Memprediksi customer apakah nantinya lancar atau mengalami kesulitan dan bayar, dan berapa peluang customer lancar bayar.
 
-
+![image](https://user-images.githubusercontent.com/114457985/210165608-a1e7405f-2344-4a84-89c1-e058a7b665dd.png)
 
 
 
