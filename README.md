@@ -1,9 +1,11 @@
 # Classification-Model-for-Loan-Default-Risk-Prediction-Virtual-Internship-Program-Home-Credit
 
 # Problem Statement
-![image](https://user-images.githubusercontent.com/114457985/210165228-046a4a72-8d61-4a63-9ab4-973b29117386.png)
 
 Masalah bisnis yang sedang dihadapi adalah terkait pinjaman yang diberikan kepada customer, sebagian diantaranya mengalami keterlambatan/ kesulitan pembayaran. 
+
+![image](https://user-images.githubusercontent.com/114457985/210165486-046d8c83-e504-4d3c-84cc-6334fe860139.png)
+
 
 Goals : 
 - Menurunkan difficulty payment rate of customer
