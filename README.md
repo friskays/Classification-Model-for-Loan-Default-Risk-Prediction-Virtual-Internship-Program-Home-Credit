@@ -42,9 +42,6 @@ Recommendation :
 - Memprediksi customer apakah nantinya lancar atau mengalami kesulitan dan bayar, dan berapa peluang customer lancar bayar.
 
 
-- 
-
-
 
 
 
