@@ -25,8 +25,7 @@ Dataset :
 ![image](https://user-images.githubusercontent.com/114457985/210165598-eb88d896-c254-4b22-a32a-4d30657d4eb0.png)
 
 
-![image](https://user-images.githubusercontent.com/114457985/210165642-d4d1c097-0bbd-42ec-bc56-aba8b564f78e.png)
-
+![Picture3](https://user-images.githubusercontent.com/114457985/210165659-f3006816-5887-487f-9c15-699683fd207d.jpg)
 
 ![image](https://user-images.githubusercontent.com/114457985/210165604-1d944be1-b186-4f66-b130-6039f219a22d.png)
 
@@ -50,7 +49,7 @@ Recommendation :
 
 - Memprediksi customer apakah nantinya lancar atau mengalami kesulitan dan bayar, dan berapa peluang customer lancar bayar.
 
-![image](https://user-images.githubusercontent.com/114457985/210165633-f96eb16b-52ed-453f-b8ed-d214e791697b.png)
+![Picture2](https://user-images.githubusercontent.com/114457985/210165663-286c47c0-c700-4392-8629-34002313e124.jpg)
 
 
 
