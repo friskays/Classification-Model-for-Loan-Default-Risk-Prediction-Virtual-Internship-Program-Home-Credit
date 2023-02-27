@@ -1,5 +1,9 @@
 # Classification-Model-for-Loan-Default-Risk-Prediction-Virtual-Internship-Program-Home-Credit
 
+Project ini merupakan Final Task Virtual Internship Program - Data Scientist di Home Credit Indonesia.
+Final Task ini bertujuan membangun model yang dapat memprediksi credit risk menggunakan sample dataset yang terdiri dari data pinjaman yang diterima dan yang ditolak.
+
+
 # Problem Statement
 
 Masalah bisnis yang sedang dihadapi adalah terkait pinjaman yang diberikan kepada customer, sebagian diantaranya mengalami keterlambatan/ kesulitan pembayaran. 
